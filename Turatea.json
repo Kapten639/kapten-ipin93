@@ -87,6 +87,13 @@
         "key": "adrian",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    
+    {
+        "device_id": "d278111512d8d0a2",
+        "key": "jejen",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
