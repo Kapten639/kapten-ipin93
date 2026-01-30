@@ -74,6 +74,13 @@
         "key": "112233",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+        },
+    
+        {
+        "device_id": "c7eccd69ad419f28",
+        "key": "minardi",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
         }
     
 ]
