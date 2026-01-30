@@ -81,6 +81,12 @@
         "key": "minardi",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-        }
+        },
+    {
+        "device_id": "18c2c0cb0043a246",
+        "key": "adrian",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+    }
     
 ]
