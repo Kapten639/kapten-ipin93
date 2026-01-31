@@ -94,6 +94,12 @@
         "key": "jejen",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-    }
+    },
+        {
+        "device_id": "7f248b60dbc7893c",
+        "key": "sugianto83",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+        }
     
 ]
