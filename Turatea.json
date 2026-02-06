@@ -142,6 +142,12 @@
         "key": "putin99",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-     }
+     },
+    {
+        "device_id": "54c98408ce9928b6",
+        "key": "lubis55",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+    }
     
 ]
