@@ -166,6 +166,12 @@
         "key": "irfan70",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d92a35f13333aa7b",
+        "key": "Barus2005",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
