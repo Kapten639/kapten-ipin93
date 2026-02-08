@@ -178,6 +178,12 @@
         "key": "fajrin",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d14afa2738d099d7",
+        "key": "eko15",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
     }
     
 ]
