@@ -184,6 +184,12 @@
         "key": "eko15",
         "expirydate": "15-06-2026",
         "Allowoffline": true
-    }
+    },
+        {
+        "device_id": "fb8272333bc5610e",
+        "key": "Kusaly",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+        }
     
 ]
