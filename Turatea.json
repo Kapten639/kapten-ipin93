@@ -196,6 +196,12 @@
         "key": "Nico27",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9aa4247917f83067",
+        "key": "Masniam28",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
