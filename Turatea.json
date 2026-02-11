@@ -190,6 +190,12 @@
         "key": "Kusaly",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-        }
+        },
+    {
+        "device_id": "95004ce149c9636c",
+        "key": "Nico27",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+    }
     
 ]
