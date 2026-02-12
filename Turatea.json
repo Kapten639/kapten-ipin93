@@ -202,6 +202,12 @@
         "key": "Masniam28",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "887af9aadc842d9e",
+        "key": "Dika029",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
