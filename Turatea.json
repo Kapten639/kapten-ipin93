@@ -208,6 +208,12 @@
         "key": "Dika029",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "af51e82269bdaf02",
+        "key": "Bangun30",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
