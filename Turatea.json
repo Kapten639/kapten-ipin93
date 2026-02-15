@@ -214,6 +214,12 @@
         "key": "Bangun30",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-    }
+    },
+        {
+        "device_id": "4e11d88bfcf9e0ee",
+        "key": "Papuabarat31",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+        }
     
 ]
