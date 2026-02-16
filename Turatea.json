@@ -232,6 +232,18 @@
         "key": "ahmadsyakur",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+      {
+        "device_id": "05903630d4579925",
+        "key": "adrian32",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+      },
+      {
+        "device_id": "b0512ef083422b72",
+        "key": "Ukimarine89",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
