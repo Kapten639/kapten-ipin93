@@ -244,6 +244,12 @@
         "key": "Ukimarine89",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-    }
+    },
+      {
+        "device_id": "588ee93ce9530169",
+        "key": "zaenaltitan",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+      }
     
 ]
