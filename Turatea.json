@@ -7,9 +7,9 @@
     },
     {
         "device_id": "509ff446093ef499",
-        "key": "123",
+        "key": "tabku",
         "expirydate": "15-06-2030",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "ca8393e8a8e4db03",
