@@ -364,6 +364,12 @@
         "key": "Riski50",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-    }
+    },
+        {
+        "device_id": "998ed196bf35a676",
+        "key": "Samidi51",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+        }
     
 ]
