@@ -370,6 +370,12 @@
         "key": "Samidi51",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-        }
+        },
+    {
+        "device_id": "35b8ef6d475dbd9e",
+        "key": "Dikson52",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+    }
     
 ]
