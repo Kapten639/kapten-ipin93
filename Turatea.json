@@ -376,6 +376,12 @@
         "key": "Dikson52",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "df69309a8b8cd823",
+        "key": "Anggreni53",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
