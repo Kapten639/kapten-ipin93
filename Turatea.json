@@ -395,6 +395,12 @@
         "key": "Ode55",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fadb56a2874242e5",
+        "key": "Falentino56",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
