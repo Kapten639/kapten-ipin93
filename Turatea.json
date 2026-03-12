@@ -425,6 +425,13 @@
         "key": "Thison02",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    
+    {
+        "device_id": "e52b399bb1df92e2",
+        "key": "Andri61",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
