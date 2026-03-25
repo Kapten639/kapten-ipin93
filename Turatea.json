@@ -469,6 +469,12 @@
         "key": "0067",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0b4dd6da84c058dc",
+        "key": "Aloy68",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
