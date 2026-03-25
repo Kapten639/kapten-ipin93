@@ -475,6 +475,12 @@
         "key": "Aloy68",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b40b50b98e06d92d",
+        "key": "caspianbreeze",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
