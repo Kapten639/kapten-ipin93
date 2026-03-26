@@ -481,6 +481,12 @@
         "key": "caspianbreeze",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "691b2e9d350eedf0",
+        "key": "iswandi70",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
