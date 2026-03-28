@@ -487,6 +487,12 @@
         "key": "iswandi70",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "25a014689b2092c1",
+        "key": "umar71",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
