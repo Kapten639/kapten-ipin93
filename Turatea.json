@@ -511,5 +511,11 @@
         "key": "gazali74",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "77761107b5297051",
+        "key": "gunawan75",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
