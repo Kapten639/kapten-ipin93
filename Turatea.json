@@ -523,5 +523,11 @@
         "key": "yoga76",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8b57eb75e2d1a9b3",
+        "key": "winangnavi77",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
