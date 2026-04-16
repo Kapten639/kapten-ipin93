@@ -601,5 +601,11 @@
         "key": "jefri89",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "244fd2eeed8eb471",
+        "key": "andri90",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
