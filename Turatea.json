@@ -626,5 +626,11 @@
         "key": "lein93",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "78989df445c38476",
+        "key": "joko94",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
