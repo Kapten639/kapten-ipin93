@@ -632,5 +632,11 @@
         "key": "joko94",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1c36b058758f5d3a",
+        "key": "Asrosri2026",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
