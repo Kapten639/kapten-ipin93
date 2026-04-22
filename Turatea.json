@@ -650,5 +650,11 @@
         "key": "Oddang123",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "05abdec3b9a5e39e",
+        "key": "yulien447",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
