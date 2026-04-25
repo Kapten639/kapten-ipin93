@@ -662,5 +662,11 @@
         "key": "aditiya99",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "294fa643f58f13f8",
+        "key": "Wartono24",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
