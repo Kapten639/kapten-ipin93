@@ -674,5 +674,11 @@
         "key": "ahmadfauzi101",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-        }
+        },
+            {
+        "device_id": "40102d6a2d6e0fbe",
+        "key": "kadaruddin102",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+            }
 ]
