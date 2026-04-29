@@ -698,5 +698,11 @@
         "key": "darsa105",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8fb8ba4871c545b7",
+        "key": "bashaf106",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
