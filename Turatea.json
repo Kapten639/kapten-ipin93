@@ -704,5 +704,11 @@
         "key": "bashaf106",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e79c20ef9492e850",
+        "key": "PJS107",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
