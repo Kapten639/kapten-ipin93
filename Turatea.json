@@ -710,5 +710,11 @@
         "key": "PJS107",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a8fcc9afba9c85ab",
+        "key": "samsir108",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
