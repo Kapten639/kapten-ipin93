@@ -788,5 +788,11 @@
         "key": "zulfan120",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "064e4fd562c43c2a",
+        "key": "Khipeng35",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
