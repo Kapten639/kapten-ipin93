@@ -794,5 +794,11 @@
         "key": "Khipeng35",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fe633f3e1a1e8701",
+        "key": "yonits122",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
