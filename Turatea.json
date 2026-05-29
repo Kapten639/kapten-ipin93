@@ -812,5 +812,11 @@
         "key": "anthon123",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "882978232ff5f408",
+        "key": "oskarwailisa17",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
