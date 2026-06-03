@@ -861,5 +861,11 @@
         "key": "Algazali132",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "267cee20e43e823e",
+        "key": "Rizal133",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
