@@ -939,5 +939,12 @@
         "key": "paul145",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    
+    {
+        "device_id": "0a80f347d798d39d",
+        "key": "Herly01",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
