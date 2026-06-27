@@ -946,5 +946,11 @@
         "key": "Herly01",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a21de6236a17a57a",
+        "key": "dimas147",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
