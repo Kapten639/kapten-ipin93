@@ -952,5 +952,11 @@
         "key": "dimas147",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "da80f772f1cdc8c0",
+        "key": "vina148",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
