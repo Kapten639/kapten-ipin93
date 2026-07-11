@@ -1018,5 +1018,11 @@
         "key": "dany157",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "db0e3acb12505a93",
+        "key": "DeoDappa2021",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
