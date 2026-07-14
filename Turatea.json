@@ -1042,5 +1042,11 @@
         "key": "agus161",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "543e215387214c02",
+        "key": "septian162",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
