@@ -1150,6 +1150,12 @@
         "key": "KSA43",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "3b7e4e63df99dc04",
+        "key": "ewing179",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
     
 ]
