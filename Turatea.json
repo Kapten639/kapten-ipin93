@@ -1230,6 +1230,14 @@
         "key": "0180",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+            },
+    
+            {
+        "device_id": "b013d087517762cb",
+        "key": "safrudin181",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
             }
+    
     
 ]
