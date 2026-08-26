@@ -1315,5 +1315,11 @@
         "key": "helmi196",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-        }
+        },
+    {
+        "device_id": "aed7c119e6215650",
+        "key": "Defyan93",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+    }
 ]
