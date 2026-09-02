@@ -1357,5 +1357,11 @@
         "key": "wandy",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "094166dd9898c9b4",
+        "key": "reynaldi",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]
